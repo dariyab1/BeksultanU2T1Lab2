@@ -35,6 +35,15 @@ public class ChatBot {
         System.out.println("That is " + distance + " away from your number!");
     }
 
+    public void funFact(){
+        System.out.println( "Did you know there are approximately 20 quadrillion ants in the world! ");
+    }
+
+    public String commute(int time){
+        time*=60;
+        return "It takes you "+time+" seconds to get to school.";
+    }
+
     // method that adds and returns the sum of three numbers
     public int addNumbers(int num1, int num2, int num3) {
         return num1 + num2 + num3;

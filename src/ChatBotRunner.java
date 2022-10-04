@@ -16,6 +16,12 @@ public class ChatBotRunner {
         System.out.println("The sum of your two favorite numbers and my favorite number is "+debbie.addNumbers(debNum, favNum, num3));
         System.out.println(debbie.goodbye());
 
+        debbie.funFact();
+        System.out.println("How many minutes does it take for you to get to school?");
+        int minutes=input.nextInt();
+        System.out.println(debbie.commute(minutes));
+
+
 
 
     }

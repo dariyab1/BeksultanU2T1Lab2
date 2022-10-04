@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3232578-cf6b-474f-ab9e-e35375214217" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ChatBot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChatBotRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RectangleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectangleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChatBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChatBotRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatBotRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
